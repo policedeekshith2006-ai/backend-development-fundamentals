@@ -10,8 +10,7 @@
 
 ## Live Link
 
-- **Deployment Status:** Deployment Pending / Local Verification Complete
-- **Details:** Cloud deployment credentials (e.g. Vercel/Render) are not configured in this local offline environment. The server has been fully verified, tested, and is directly runnable locally on port 3000.
+https://express-js-lab1-git-main-policedeekshith2006-7927s-projects.vercel.app/
 
 ## Objective
 
