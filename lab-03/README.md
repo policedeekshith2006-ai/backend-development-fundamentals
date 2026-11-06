@@ -4,6 +4,8 @@
 **Registration Number:** 252U1R7081
 **Section:** CSE FSD - 2B
 **Course:** Backend Development Fundamentals
+**GitHub Username:** policedeekshith2006-ai
+**GitHub Repository:** https://github.com/policedeekshith2006-ai/express.js-lab1
 
 ## Live Link
 
