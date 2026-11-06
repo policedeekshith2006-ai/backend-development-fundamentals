@@ -10,7 +10,7 @@
 
 ## Live Link
 
-https://vercel.com/policedeekshith2006-7927s-projects/express-js-lab1
+https://vercel.com/policedeekshith2006-7927s-projects/express-js-lab-1
 
 ## Objective
 
