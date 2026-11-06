@@ -9,7 +9,7 @@
 
 ## Live Link
 
-https://express-js-lab1-3.vercel.app/
+https://express-js-lab3.vercel.app/
 
 If the service is hosted on a free plan it may sleep after a period without traffic, so the first request can be slow. Free plans usually do not keep files between restarts, so books added, changed or deleted through the live link may be lost and the database goes back to its 12 starting rows.
 
